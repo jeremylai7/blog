@@ -9,4 +9,5 @@ location /webSocket/ {
 }
 ```
 配置完成后重启nginx即可。
-参考文档: [nginx官方文档]("https://www.nginx.com/blog/websocket-nginx")
+参考文档: [nginx官方文档](https://www.nginx.com/blog/websocket-nginx)
+
