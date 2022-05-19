@@ -231,5 +231,7 @@ public class NewsServiceImpl extends BaseServiceImpl<SysUser> implements NewsSer
 ```
 上面的pagehelper.startpage需要做一点改变，前端传过来的是显示第几条数据，但是startpage方法第一个参数是显示第几页的数据，所以做一个转换pageoffset/limit  +1，然后在查询数据，需要注意的是，一定要将startpage方法方法查询数据语句的前一行，不能空行，或者换行。
 ###附录:
+
 [github源码](https://github.com/jeremylai7/springboot-bootstrap.git)
+
 [demo展示](https://www.jeremy7.cn/bootstrap/)
