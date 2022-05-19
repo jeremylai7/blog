@@ -1,3 +1,5 @@
+# Mac 远程上传文件到 Linux
+
 1. 打开Mac自带终端：
 ![mac自带终端](https://upload-images.jianshu.io/upload_images/9624625-4a7b07c2da96eaf8.png)
 
