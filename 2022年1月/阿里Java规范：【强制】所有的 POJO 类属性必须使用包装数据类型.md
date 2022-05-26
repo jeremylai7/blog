@@ -2,7 +2,7 @@
 
 在 Java 开发手册中有这一条：
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/11553237/170394594-931690f2-83cf-4c93-876a-c1aac529f1bd.png)
 
 我们知道基本类型和包装类型有很多不同点：
 * 封装类型可以调用各种方法，而基本类型没有
