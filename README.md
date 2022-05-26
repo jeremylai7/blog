@@ -93,7 +93,7 @@
 * [2021年](https://github.com/jeremylai7/blog/tree/origin/2021%E5%B9%B41%E6%9C%88)
      * [Java优化if-else代码](https://github.com/jeremylai7/blog/blob/origin/2021%E5%B9%B41%E6%9C%88/Java%E4%BC%98%E5%8C%96if-else%E4%BB%A3%E7%A0%81.md)
      * [idea jdk 已经配置成了1.8，还提示Diamond types are not supported at language level '1.5'](https://github.com/jeremylai7/blog/blob/origin/2021%E5%B9%B41%E6%9C%88/idea%20jdk%20%E5%B7%B2%E7%BB%8F%E9%85%8D%E7%BD%AE%E6%88%90%E4%BA%861.8%EF%BC%8C%E8%BF%98%E6%8F%90%E7%A4%BADiamond%20types%20are%20not%20supported%20at%20language%20level%20'1.5'.md)
-     * [idea(Mac版本)配置本地maven报pom.part.lock (No such file or directory）]([https://github.com/jeremylai7/blog/blob/orig](https://github.com/jeremylai7/blog/blob/origin/2021%E5%B9%B41%E6%9C%88/idea(Mac%E7%89%88%E6%9C%AC)%E9%85%8D%E7%BD%AE%E6%9C%AC%E5%9C%B0maven%E6%8A%A5pom.part.lock%20(No%20such%20file%20or%20directory%EF%BC%89.md)) 
+     * [idea(Mac版本)配置本地maven报pom.part.lock (No such file or directory）](https://github.com/jeremylai7/blog/blob/origin/2021%E5%B9%B41%E6%9C%88/idea(Mac%E7%89%88%E6%9C%AC)%E9%85%8D%E7%BD%AE%E6%9C%AC%E5%9C%B0maven%E6%8A%A5pom.part.lock%20(No%20such%20file%20or%20directory%EF%BC%89.md)) 
      * [nginx配置systemctl服务以及systemctl start nginx 卡住](https://github.com/jeremylai7/blog/blob/origin/2021%E5%B9%B41%E6%9C%88/nginx%E9%85%8D%E7%BD%AEsystemctl%E6%9C%8D%E5%8A%A1%E4%BB%A5%E5%8F%8Asystemctl%20start%20nginx%20%E5%8D%A1%E4%BD%8F.md))
  
 * [2021年以前](https://github.com/jeremylai7/blog/tree/origin/2021%E5%B9%B4%E4%BB%A5%E5%89%8D) 
