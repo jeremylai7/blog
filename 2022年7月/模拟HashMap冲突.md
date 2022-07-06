@@ -131,7 +131,7 @@ final V putVal(int hash, K key, V value, boolean onlyIfAbsent,
 }
 ```
 
-在源码解析文章[详解HashMap源码解析（下）]([https:www.cnblogs.com/jeremylai7/p/16445127.html](https://www.cnblogs.com/jeremylai7/p/16445127.html))中知道，发生hash冲突是会在上面代码的第`16`行，一直`for`循环遍历链表，替换相同的`key`或者在链表中添加数据:
+在源码解析文章[详解HashMap源码解析（下）](https://www.cnblogs.com/jeremylai7/p/16445127.html)中知道，发生hash冲突是会在上面代码的第`16`行，一直`for`循环遍历链表，替换相同的`key`或者在链表中添加数据:
 ```
 for (int binCount = 0; ; ++binCount) {
     if ((e = p.next) == null) {
