@@ -4,6 +4,7 @@
     * [详解HashMap源码解析（上）](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B47%E6%9C%88/%E8%AF%A6%E8%A7%A3HashMap%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%8A%EF%BC%89.md)
     * [详解HashMap源码解析（下）](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B47%E6%9C%88/%E8%AF%A6%E8%A7%A3HashMap%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%8B%EF%BC%89.md)
     * [模拟HashMap冲突](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B47%E6%9C%88/%E6%A8%A1%E6%8B%9FHashMap%E5%86%B2%E7%AA%81.md)
+    * [SpringBoot快速整合通用Mapper](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B47%E6%9C%88/SpringBoot%E5%BF%AB%E9%80%9F%E6%95%B4%E5%90%88%E9%80%9A%E7%94%A8Mapper.md)
 * [2022年6月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B46%E6%9C%88)
     * [【leetcode 206】 反转链表（简单）](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B46%E6%9C%88/%E3%80%90leetcode%20206%E3%80%91%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%EF%BC%88%E7%AE%80%E5%8D%95%EF%BC%89.md)
     * [Github Markdown 指定图片在光亮或暗黑模式展示](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B46%E6%9C%88/Github%20Markdown%20%E6%8C%87%E5%AE%9A%E5%9B%BE%E7%89%87%E5%9C%A8%E5%85%89%E4%BA%AE%E6%88%96%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E5%B1%95%E7%A4%BA.md)
