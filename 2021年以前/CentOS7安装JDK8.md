@@ -5,11 +5,12 @@
 
 ## 安装jdk
 为了方便对下载的源文件有一个统一的管理，在 /opt新加一个文件夹resource，用于存放下载的文件
-####解压源码包
+
+## 解压源码包
 ```
 [root@iZbp1fgnu2pf6dztkpeq5dZ resource]# tar -zxvf jdk-8u181-linux-x64.tar.gz
 ```
-####设置环境变量
+## 设置环境变量
 ```
 [root@iZbp1fgnu2pf6dztkpeq5dZ resource]# vim /etc/profile
 ```
