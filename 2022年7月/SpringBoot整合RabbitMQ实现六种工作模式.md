@@ -1,3 +1,5 @@
+# SpringBoot整合RabbitMQ实现六种工作模式
+
 > `RabbitMQ`主要有六种种工作模式，本文整合`SpringBoot`分别介绍工作模式的实现。
 
 # 前提概念
