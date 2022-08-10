@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/11553237/169229515-59c9f5b0-7bfd-49c0-8d6c-996997e7254c.png)
 
 没有蓝点一般是因为没添加项目的 `.iml` 文件：
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/11553237/183861043-dd92cc2e-82f4-4d80-899b-10be0a3c5a8a.png)
 
 添加路径:
 ```
