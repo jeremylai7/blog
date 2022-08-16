@@ -2,6 +2,7 @@
 * [2022年8月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B48%E6%9C%88)
     * [Centos7安装Nginx教程，一步安装http和https](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B48%E6%9C%88/Centos7%E5%AE%89%E8%A3%85Nginx%E6%95%99%E7%A8%8B%EF%BC%8C%E4%B8%80%E6%AD%A5%E5%AE%89%E8%A3%85http%E5%92%8Chttps.md)
     * [详解ConCurrentHashMap源码（jdk1.8）](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B48%E6%9C%88/%E8%AF%A6%E8%A7%A3ConCurrentHashMap%E6%BA%90%E7%A0%81%EF%BC%88jdk1.8%EF%BC%89.md) 
+    * [MySQL更新锁表超时 Lock wait timeout exceeded](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B48%E6%9C%88/MySQL%E6%9B%B4%E6%96%B0%E9%94%81%E8%A1%A8%E8%B6%85%E6%97%B6%20Lock%20wait%20timeout%20exceeded.md)
 * [2022年7月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B47%E6%9C%88)
     * [详解HashMap源码解析（上）](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B47%E6%9C%88/%E8%AF%A6%E8%A7%A3HashMap%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%8A%EF%BC%89.md)
     * [详解HashMap源码解析（下）](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B47%E6%9C%88/%E8%AF%A6%E8%A7%A3HashMap%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%8B%EF%BC%89.md)
