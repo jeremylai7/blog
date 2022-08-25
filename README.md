@@ -108,7 +108,7 @@
      * [Java == 和 equals的区别](https://github.com/jeremylai7/blog/blob/origin/2021%E5%B9%B43%E6%9C%88/Java%20%3D%3D%20%E5%92%8C%20equals%E7%9A%84%E5%8C%BA%E5%88%AB.md)
      * [map实现类的键值顺序结构](https://github.com/jeremylai7/blog/blob/origin/2021%E5%B9%B43%E6%9C%88/Java%20%E6%80%BB%E7%BB%93map%E5%AE%9E%E7%8E%B0%E7%B1%BB%E7%9A%84%E9%94%AE%E5%80%BC%E9%A1%BA%E5%BA%8F%E7%BB%93%E6%9E%84.md)
      * [LinkedList 添加元素源码解析](https://github.com/jeremylai7/blog/blob/origin/2021%E5%B9%B43%E6%9C%88/LinkedList%20%E6%B7%BB%E5%8A%A0%E5%85%83%E7%B4%A0%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
-* [2021年](https://github.com/jeremylai7/blog/tree/origin/2021%E5%B9%B41%E6%9C%88)
+* [2021年1月](https://github.com/jeremylai7/blog/tree/origin/2021%E5%B9%B41%E6%9C%88)
      * [Java优化if-else代码](https://github.com/jeremylai7/blog/blob/origin/2021%E5%B9%B41%E6%9C%88/Java%E4%BC%98%E5%8C%96if-else%E4%BB%A3%E7%A0%81.md)
      * [idea jdk 已经配置成了1.8，还提示Diamond types are not supported at language level '1.5'](https://github.com/jeremylai7/blog/blob/origin/2021%E5%B9%B41%E6%9C%88/idea%20jdk%20%E5%B7%B2%E7%BB%8F%E9%85%8D%E7%BD%AE%E6%88%90%E4%BA%861.8%EF%BC%8C%E8%BF%98%E6%8F%90%E7%A4%BADiamond%20types%20are%20not%20supported%20at%20language%20level%20'1.5'.md)
      * [idea(Mac版本)配置本地maven报pom.part.lock (No such file or directory）](https://github.com/jeremylai7/blog/blob/origin/2021%E5%B9%B41%E6%9C%88/idea(Mac%E7%89%88%E6%9C%AC)%E9%85%8D%E7%BD%AE%E6%9C%AC%E5%9C%B0maven%E6%8A%A5pom.part.lock%20(No%20such%20file%20or%20directory%EF%BC%89.md)) 
