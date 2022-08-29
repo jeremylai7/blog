@@ -5,6 +5,7 @@
     * [MySQL更新锁表超时 Lock wait timeout exceeded](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B48%E6%9C%88/MySQL%E6%9B%B4%E6%96%B0%E9%94%81%E8%A1%A8%E8%B6%85%E6%97%B6%20Lock%20wait%20timeout%20exceeded.md)
     * [深入理解Redis 数据结构—字典](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B48%E6%9C%88/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Redis%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E5%AD%97%E5%85%B8.md)
     * [详解MySQL隔离级别](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B48%E6%9C%88/%E8%AF%A6%E8%A7%A3MySQL%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB.md)
+    * [字节一面：说说TCP的三次握手](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B48%E6%9C%88/%E5%AD%97%E8%8A%82%E4%B8%80%E9%9D%A2%EF%BC%9A%E8%AF%B4%E8%AF%B4TCP%E7%9A%84%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B.md)
 * [2022年7月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B47%E6%9C%88)
     * [详解HashMap源码解析（上）](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B47%E6%9C%88/%E8%AF%A6%E8%A7%A3HashMap%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%8A%EF%BC%89.md)
     * [详解HashMap源码解析（下）](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B47%E6%9C%88/%E8%AF%A6%E8%A7%A3HashMap%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%8B%EF%BC%89.md)
