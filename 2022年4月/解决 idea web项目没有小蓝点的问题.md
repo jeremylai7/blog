@@ -20,6 +20,19 @@
 <module fileurl="file://$PROJECT_DIR$/项目名称/iml文件路径 " filepath="$PROJECT_DIR$/iml文件路径" />
 ```
 
+## 终极解决方案：
+
+从`github`上下载的代码没有蓝点，一个一个添加也很麻烦，直接在`pom`文件中添加`modules`和`packaging`:
+
+```
+<modules>
+    <module>子模块1</module>
+    <module>子模块2</module>
+    <module>子模块3</module>
+</modules>
+<packaging>pom</packaging>
+```
+
 ## 总结
 * 正常创建的`web`项目有小蓝点，但是如果修改过项目名称或者修改项目路径，会导致 `idea` 不能读取成一个`web`项目。
 * 把`.iml`项目路径添加进 `.idea` --> `modules.xml` 即可。
