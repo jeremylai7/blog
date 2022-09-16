@@ -4,6 +4,7 @@
     * [Centos安装Redis(极速安装)](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B49%E6%9C%88/Centos%E5%AE%89%E8%A3%85Redis(%E6%9E%81%E9%80%9F%E5%AE%89%E8%A3%85).md)
     * [小程序正式版报错600002 url not in domain list](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B49%E6%9C%88/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%AD%A3%E5%BC%8F%E7%89%88%E6%8A%A5%E9%94%99600002%20url%20not%20in%20domain%20list.md)
     * [手把手教你用Java获取IP归属地](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B49%E6%9C%88/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%94%A8Java%E8%8E%B7%E5%8F%96IP%E5%BD%92%E5%B1%9E%E5%9C%B0.md)
+    * [后端程序员实现一个IP归属地的小程序](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B49%E6%9C%88/%E5%90%8E%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AAIP%E5%BD%92%E5%B1%9E%E5%9C%B0%E7%9A%84%E5%B0%8F%E7%A8%8B%E5%BA%8F.md)
 * [2022年8月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B48%E6%9C%88)
     * [Centos7安装Nginx教程，一步安装http和https](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B48%E6%9C%88/Centos7%E5%AE%89%E8%A3%85Nginx%E6%95%99%E7%A8%8B%EF%BC%8C%E4%B8%80%E6%AD%A5%E5%AE%89%E8%A3%85http%E5%92%8Chttps.md)
     * [详解ConCurrentHashMap源码（jdk1.8）](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B48%E6%9C%88/%E8%AF%A6%E8%A7%A3ConCurrentHashMap%E6%BA%90%E7%A0%81%EF%BC%88jdk1.8%EF%BC%89.md) 
