@@ -6,14 +6,14 @@
 ```
 // 订单审批通过
 @Transactional(rollbackFor = Exception.class)
-	public void orderPass() {
-		// 更新订单审核状态
-		updateOrderAuditStatus(id);
-		// 添加入库
-		addPutInStorage(id);
-		// 更新订单入库状态
-		updateOrderStorageStatus(id);
-	}
+public void orderPass() {
+	// 更新订单审核状态
+	updateOrderAuditStatus(id);
+	// 添加入库
+	addPutInStorage(id);
+	// 更新订单入库状态
+	updateOrderStorageStatus(id);
+}
 ```
 
 其中的`添加入库`是远程`ERP`入库，添加出库之后`更新出库状态`。因为`ERP`可能因为库存不足，会`入库失败`。但此时审批流程已经结束，不可能再发起一遍审批流程。当`添加入库失败`时`订单审核状态`正常更新，`添加入库`和`更新入库状态`失败。这里的解决方案是：
