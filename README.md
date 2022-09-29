@@ -6,6 +6,7 @@
     * [手把手教你用Java获取IP归属地](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B49%E6%9C%88/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%94%A8Java%E8%8E%B7%E5%8F%96IP%E5%BD%92%E5%B1%9E%E5%9C%B0.md)
     * [后端程序员实现一个IP归属地的小程序](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B49%E6%9C%88/%E5%90%8E%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AAIP%E5%BD%92%E5%B1%9E%E5%9C%B0%E7%9A%84%E5%B0%8F%E7%A8%8B%E5%BA%8F.md)
     * [如何排查CPU占用100%](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B49%E6%9C%88/%E5%A6%82%E4%BD%95%E6%8E%92%E6%9F%A5CPU%E5%8D%A0%E7%94%A8100%25%20.md)
+    * [IDEA顺序启动多个Spring Boot微服务](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B49%E6%9C%88/IDEA%E9%A1%BA%E5%BA%8F%E5%90%AF%E5%8A%A8%E5%A4%9A%E4%B8%AASpring%20Boot%E5%BE%AE%E6%9C%8D%E5%8A%A1.md)
 * [2022年8月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B48%E6%9C%88)
     * [Centos7安装Nginx教程，一步安装http和https](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B48%E6%9C%88/Centos7%E5%AE%89%E8%A3%85Nginx%E6%95%99%E7%A8%8B%EF%BC%8C%E4%B8%80%E6%AD%A5%E5%AE%89%E8%A3%85http%E5%92%8Chttps.md)
     * [详解ConCurrentHashMap源码（jdk1.8）](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B48%E6%9C%88/%E8%AF%A6%E8%A7%A3ConCurrentHashMap%E6%BA%90%E7%A0%81%EF%BC%88jdk1.8%EF%BC%89.md) 
