@@ -1,6 +1,7 @@
 # 博客记录
 * [2022年10月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B410%E6%9C%88)
     * [使用LEFT JOIN 统计左右存在的数据](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B410%E6%9C%88/%E4%BD%BF%E7%94%A8LEFT%20JOIN%20%E7%BB%9F%E8%AE%A1%E5%B7%A6%E5%8F%B3%E5%AD%98%E5%9C%A8%E7%9A%84%E6%95%B0%E6%8D%AE.md)
+    * [Seata 环境搭建](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B410%E6%9C%88/Seata%20%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
 * [2022年9月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B49%E6%9C%88)
     * [阿里云ECS后台CPU占用100%，top却找不到](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B49%E6%9C%88/%E9%98%BF%E9%87%8C%E4%BA%91ECS%E5%90%8E%E5%8F%B0CPU%E5%8D%A0%E7%94%A8100%25%EF%BC%8Ctop%E5%8D%B4%E6%89%BE%E4%B8%8D%E5%88%B0.md)
     * [Centos安装Redis(极速安装)](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B49%E6%9C%88/Centos%E5%AE%89%E8%A3%85Redis(%E6%9E%81%E9%80%9F%E5%AE%89%E8%A3%85).md)
