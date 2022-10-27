@@ -122,7 +122,7 @@ sh nacos-config.sh -h 127.0.0.1 -p 8848 -g SEATA_GROUP -t xxxx -u username -w pa
 * -g `nacos` 配置的分组名称，默认设置`SEATA_GROUP`
 * -t 上一步配置的`命名空间ID`
 
-![](https://files.mdnice.com/user/29864/6f41f8c5-1257-4aee-9a91-c32b5b2a2aee.png)
+![image](https://user-images.githubusercontent.com/11553237/198237942-c504756b-9fd9-42d1-ba1b-69163f0d5460.png)
 
 执行脚本之后，输出以下脚本:
 ```
