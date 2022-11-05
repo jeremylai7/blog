@@ -1,4 +1,6 @@
 # 博客记录
+* [2022年11月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B411%E6%9C%88)
+    * [SpringBoot 自动装配原理](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B411%E6%9C%88/SpringBoot%20%E8%87%AA%E5%8A%A8%E8%A3%85%E9%85%8D%E5%8E%9F%E7%90%86.md)
 * [2022年10月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B410%E6%9C%88)
     * [使用LEFT JOIN 统计左右存在的数据](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B410%E6%9C%88/%E4%BD%BF%E7%94%A8LEFT%20JOIN%20%E7%BB%9F%E8%AE%A1%E5%B7%A6%E5%8F%B3%E5%AD%98%E5%9C%A8%E7%9A%84%E6%95%B0%E6%8D%AE.md)
     * [java.sql.SQLException: MONTH 报错解决方法](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B410%E6%9C%88/java.sql.SQLException:%20MONTH%20%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md)
