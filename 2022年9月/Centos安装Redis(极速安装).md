@@ -84,19 +84,19 @@ PrivateTmp=true
 
 ```
 # 查询状态
-systemctl status nginx
+systemctl status redis
 # 启动
-systemctl start nginx
+systemctl start redis
 # 关闭
-systemctl stop nginx
+systemctl stop redis
 # 设置开机启动
-systemctl enable nginx
+systemctl enable redis
 ```
 
 # 启动服务
 
 ```
-systemctl start nginx
+systemctl start redis
 ```
 
 执行命令之后，就能成功远程连接`Redis`服务了。
