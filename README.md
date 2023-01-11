@@ -1,4 +1,6 @@
 # 博客记录
+* [2023年1月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B41%E6%9C%88)
+    * [Nacos 源码环境搭建](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B41%E6%9C%88/Nacos%20%E6%BA%90%E7%A0%81%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
 * [2022年12月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B412%E6%9C%88)
     * [详解 Redis 中 big keys 发现和解决](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B412%E6%9C%88/%E8%AF%A6%E8%A7%A3%20Redis%20%E4%B8%AD%20big%20keys%20%E5%8F%91%E7%8E%B0%E5%92%8C%E8%A7%A3%E5%86%B3.md)
     * [mvn 打包报错：no compiler is provided in this environment](https://github.com/jeremylai7/blog/blob/origin/2022%E5%B9%B412%E6%9C%88/mvn%20%E6%89%93%E5%8C%85%E6%8A%A5%E9%94%99%EF%BC%9Ano%20compiler%20is%20provided%20in%20this%20environment.md)
