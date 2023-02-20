@@ -1,6 +1,7 @@
 # 博客记录
 * [2023年2月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B42%E6%9C%88)
     * [Nacos服务注册原理分析](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B42%E6%9C%88/Nacos%E6%9C%8D%E5%8A%A1%E6%B3%A8%E5%86%8C%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90.md)
+    * [Nacos服务发现原理分析](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B42%E6%9C%88/Nacos%E6%9C%8D%E5%8A%A1%E5%8F%91%E7%8E%B0%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90.md)
 * [2023年1月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B41%E6%9C%88)
     * [Nacos 源码环境搭建](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B41%E6%9C%88/Nacos%20%E6%BA%90%E7%A0%81%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
 * [2022年12月](https://github.com/jeremylai7/blog/tree/origin/2022%E5%B9%B412%E6%9C%88)
