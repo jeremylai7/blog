@@ -20,7 +20,9 @@ index (k)
 )engine=InnoDB;
 ```
 在表中插入数据分别为(100,1)、（200,2）、（300,3）、（500,5）、（600,6），分别用R1~R5表示。当创建表和插入数据后会生成两棵树：
+
 ![](https://upload-images.jianshu.io/upload_images/9624625-7b167c1bb74d33ec.png)
+
 其中左边的是聚集索引，右边的是非聚集索引。非聚集索引叶子节点存储的是主键的值，聚集索引存储的是整行的数据。
 执行 `select * from T where k between 3 and 5`,有以下的执行流程：
 * 1、在 k 索引树上找到 k = 3,取得ID = 300
