@@ -2,6 +2,7 @@
 * [2023年3月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B43%E6%9C%88)
     * [Spring Cloud Alibaba 整合 Seata 实现分布式事务](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B43%E6%9C%88/Spring%20Cloud%20Alibaba%20%E6%95%B4%E5%90%88%20Seata%20%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.md)
     * [延迟队列实现订单超时自动取消](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B43%E6%9C%88/%E5%BB%B6%E8%BF%9F%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E8%AE%A2%E5%8D%95%E8%B6%85%E6%97%B6%E8%87%AA%E5%8A%A8%E5%8F%96%E6%B6%88.md)
+    * [详解一致性哈希](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B43%E6%9C%88/%E8%AF%A6%E8%A7%A3%E4%B8%80%E8%87%B4%E6%80%A7%E5%93%88%E5%B8%8C.md)
 * [2023年2月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B42%E6%9C%88)
     * [Nacos服务注册原理分析](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B42%E6%9C%88/Nacos%E6%9C%8D%E5%8A%A1%E6%B3%A8%E5%86%8C%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90.md)
     * [Nacos服务发现原理分析](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B42%E6%9C%88/Nacos%E6%9C%8D%E5%8A%A1%E5%8F%91%E7%8E%B0%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90.md)
