@@ -44,6 +44,9 @@ ERROR 1820 (HY000): You must reset your password using ALTER USER statement befo
 mysql> ALTER USER USER() IDENTIFIED BY '123456';
 ERROR 1819 (HY000): Your password does not satisfy the current policy requirements
 ```
+
+# mysql 5.7
+
 需要修改Policy
 ```
 mysql> set global validate_password_policy=0;
@@ -56,7 +59,45 @@ mysql> set global validate_password_length=6;
 ```
 mysql>  ALTER USER USER() IDENTIFIED BY '123456';
 ```
-## 开启远程连接
+
+# mysql 8.0
+
+```
+mysql> set global validate_password.policy=0;
+ERROR 1820 (HY000): You must reset your password using ALTER USER statement before executing this statement.
+```
+
+  `mysql 8.0`修改密码之前，不能做任务修改。
+  
+先设置一个符合要求的密码
+
+```
+ALTER USER USER() IDENTIFIED BY 'A_123456'
+```
+查看修改项：
+
+```
+SHOW VARIABLES LIKE 'validate_password%';
+```
+
+![image](https://user-images.githubusercontent.com/11553237/223953887-cd85b7b2-ebda-4d20-8b79-f3ab72aa0d8f.png)
+
+
+需要修改Policy:
+
+```
+mysql> set global validate_password.policy=0;
+mysql> set global validate_password.length=1;
+```
+
+最后修改你想要设置的密码：
+
+```
+ALTER USER USER() IDENTIFIED BY '123456'
+```
+
+
+# 开启远程连接
 有以下两个方法:
 1.如果要直接使用root用户远程连接,直接执行以下sql
 ```
