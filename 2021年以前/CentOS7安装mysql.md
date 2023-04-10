@@ -22,6 +22,25 @@
 ```
 [root@localhost ~]# yum install mysql-community-server
 ```
+
+安装报错：
+
+```
+The GPG keys listed for the "MySQL 5.7 Community Server" repository are already installed but they are not correct for this package.
+Check that the correct key URLs are configured for this repository.
+
+
+ Failing package is: mysql-community-client-5.7.39-1.el7.x86_64
+ GPG Keys are configured as: file:///etc/pki/rpm-gpg/RPM-GPG-KEY-mysql
+```
+
+解决办法：
+
+```
+rpm --import https://repo.mysql.com/RPM-GPG-KEY-mysql-2022
+```
+
+
 ## 启动mysql
 ```
 [root@localhost ~]# service mysqld start
