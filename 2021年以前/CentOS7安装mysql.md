@@ -13,9 +13,10 @@
 ## 下载和安装mysql的repo源
 
 ~~wget https://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm~~
+~~yum -y localinstall mysql57-community-release-el7-11.noarch.rpm~~
 ```
 [root@localhost ~]# wget https://repo.mysql.com/mysql80-community-release-el7-3.noarch.rpm
-[root@localhost ~]# yum -y localinstall mysql57-community-release-el7-11.noarch.rpm
+[root@localhost ~]# yum -y localinstall mysql80-community-release-el7-3.noarch.rpm
 ```
 ## 下载和安装mysql
 ```
