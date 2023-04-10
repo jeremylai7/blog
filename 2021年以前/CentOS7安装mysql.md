@@ -92,7 +92,7 @@ ERROR 1820 (HY000): You must reset your password using ALTER USER statement befo
 先设置一个符合要求的密码
 
 ```
-ALTER USER USER() IDENTIFIED BY 'A_123456'
+ALTER USER USER() IDENTIFIED BY 'Al_123456'
 ```
 查看修改项：
 
