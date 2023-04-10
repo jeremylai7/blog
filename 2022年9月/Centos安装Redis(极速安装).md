@@ -29,7 +29,7 @@ make install PREFIX=/usr/local/redis
 
 从解压文件复制`redis.conf` 到 `usr/local/redis/bin`：
 ```
-cp redis.conf usr/local/redis/bin
+cp redis.conf /usr/local/redis/bin
 ```
 
 # 修改 redis.conf
@@ -74,7 +74,7 @@ After=network.target
 
 [Service]
 Type=forking
-ExecStart=/usr/local/redis/bin/redis-server /etc/redis.conf
+ExecStart=/usr/local/redis/bin/redis-server /usr/local/redis/bin/redis.conf
 ExecStop=/usr/local/redis/bin/redis-cli -p 6379 shutdown
 PrivateTmp=true
 
