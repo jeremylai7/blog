@@ -87,7 +87,7 @@ mysql> set global validate_password.policy=0;
 ERROR 1820 (HY000): You must reset your password using ALTER USER statement before executing this statement.
 ```
 
-  `mysql 8.0`修改密码之前，不能做任务修改。
+  `mysql 8.0`修改密码之前，不能做任何修改。
   
 先设置一个符合要求的密码
 
