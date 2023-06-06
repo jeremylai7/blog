@@ -19,7 +19,7 @@ cd redis-6.0.16
 ```
 make
 ```
-> make 报错，需要安装`gcc`,` yum -y install gcc-c++` 。还是报错`struct redisServer‘ has no member named ‘loading`，需要升级`gcc`,分别执行命令 `yum -y install centos-release-scl`,`yum -y install devtoolset-9-gcc devtoolset-9-gcc-c++ devtoolset-9-binutils`、`scl enable devtoolset-9 bash`。
+> make 报错，需要安装`gcc`,` yum -y install gcc-c++` 。还是报错`struct redisServer‘ has no member named ‘loading`，需要升级`gcc`,执行命令 `yum -y install centos-release-scl  devtoolset-9-gcc devtoolset-9-gcc-c++ devtoolset-9-binutils scl enable devtoolset-9 bash`。
 
 安装
 
