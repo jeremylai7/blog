@@ -48,7 +48,7 @@ daemonize yes
 bind 127.0.0.1
 ```
 
-* 关闭安全保护
+* 关闭安全保护（yes表示只有本机才能连接）
 ```
 protected-mode no
 ```
