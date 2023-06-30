@@ -3,6 +3,7 @@
     * [Java 实战介绍 Cookie 和 Session 的区别](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B46%E6%9C%88/Java%20%E5%AE%9E%E6%88%98%E4%BB%8B%E7%BB%8D%20Cookie%20%E5%92%8C%20Session%20%E7%9A%84%E5%8C%BA%E5%88%AB.md)
     * [Jconsole 开启远程连接遇到的一些坑](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B46%E6%9C%88/Jconsole%20%E5%BC%80%E5%90%AF%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E5%9D%91.md)
     * [Java 设计模式实战系列—策略模式](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B46%E6%9C%88/Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%AE%9E%E6%88%98%E7%B3%BB%E5%88%97%E2%80%94%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
+    * [Java 设计模式实战系列—工厂模式](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B46%E6%9C%88/Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%AE%9E%E6%88%98%E7%B3%BB%E5%88%97%E2%80%94%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
 * [2023年5月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B45%E6%9C%88)
     * [一篇文章告诉你什么是Java内存模型](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B45%E6%9C%88/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%91%8A%E8%AF%89%E4%BD%A0%E4%BB%80%E4%B9%88%E6%98%AFJava%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)
 * [2023年4月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B44%E6%9C%88)
