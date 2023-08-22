@@ -1,4 +1,6 @@
 # 博客记录
+* [2023年8月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B48%E6%9C%88)
+    * [TCP的可靠性之道：确认重传和流量控制](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B48%E6%9C%88/TCP%E7%9A%84%E5%8F%AF%E9%9D%A0%E6%80%A7%E4%B9%8B%E9%81%93%EF%BC%9A%E7%A1%AE%E8%AE%A4%E9%87%8D%E4%BC%A0%E5%92%8C%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6.md)    
 * [2023年6月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B46%E6%9C%88)
     * [Java 实战介绍 Cookie 和 Session 的区别](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B46%E6%9C%88/Java%20%E5%AE%9E%E6%88%98%E4%BB%8B%E7%BB%8D%20Cookie%20%E5%92%8C%20Session%20%E7%9A%84%E5%8C%BA%E5%88%AB.md)
     * [Jconsole 开启远程连接遇到的一些坑](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B46%E6%9C%88/Jconsole%20%E5%BC%80%E5%90%AF%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E5%9D%91.md)
