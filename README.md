@@ -1,4 +1,6 @@
 # 博客记录
+* [2023年12月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B412%E6%9C%88)
+  * [从一个程序员的角度看东方甄选“小作文”事件](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B412%E6%9C%88/%E4%BB%8E%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%A7%92%E5%BA%A6%E7%9C%8B%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E2%80%9C%E5%B0%8F%E4%BD%9C%E6%96%87%E2%80%9D%E4%BA%8B%E4%BB%B6.md)
 * [2023年11月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B411%E6%9C%88)
    * [如何实现异步通知的重试机制](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B411%E6%9C%88/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%BC%82%E6%AD%A5%E9%80%9A%E7%9F%A5%E7%9A%84%E9%87%8D%E8%AF%95%E6%9C%BA%E5%88%B6.md)
 * [2023年9月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B49%E6%9C%88)
