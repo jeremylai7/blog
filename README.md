@@ -1,6 +1,7 @@
 # 博客记录
 * [2024年6月](https://github.com/jeremylai7/blog/tree/origin/2024%E5%B9%B46%E6%9C%88)
    * [递归在多级数据结构中的简单应用](https://github.com/jeremylai7/blog/blob/origin/2024%E5%B9%B46%E6%9C%88/%E9%80%92%E5%BD%92%E5%9C%A8%E5%A4%9A%E7%BA%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%AD%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8.md)
+   * [EasyExcel 无法读取图片？用poi写了一个工具类](https://github.com/jeremylai7/blog/blob/origin/2024%E5%B9%B46%E6%9C%88/EasyExcel%20%E6%97%A0%E6%B3%95%E8%AF%BB%E5%8F%96%E5%9B%BE%E7%89%87%EF%BC%9F%E7%94%A8poi%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%AA%E5%B7%A5%E5%85%B7%E7%B1%BB.md)
 * [2023年12月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B412%E6%9C%88)
   * [从一个程序员的角度看东方甄选“小作文”事件](https://github.com/jeremylai7/blog/blob/origin/2023%E5%B9%B412%E6%9C%88/%E4%BB%8E%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%A7%92%E5%BA%A6%E7%9C%8B%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E2%80%9C%E5%B0%8F%E4%BD%9C%E6%96%87%E2%80%9D%E4%BA%8B%E4%BB%B6.md)
 * [2023年11月](https://github.com/jeremylai7/blog/tree/origin/2023%E5%B9%B411%E6%9C%88)
