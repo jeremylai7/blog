@@ -1,4 +1,6 @@
 # 博客记录
+* [2024年7月](https://github.com/jeremylai7/blog/tree/origin/2024%E5%B9%B47%E6%9C%88)
+   * [程序员失业日记1 : 工作五年，交接半天](https://github.com/jeremylai7/blog/blob/origin/2024%E5%B9%B47%E6%9C%88/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%B1%E4%B8%9A%E6%97%A5%E8%AE%B01%3A%E5%B7%A5%E4%BD%9C%E4%BA%94%E5%B9%B4%EF%BC%8C%E4%BA%A4%E6%8E%A5%E5%8D%8A%E5%A4%A9.md)
 * [2024年6月](https://github.com/jeremylai7/blog/tree/origin/2024%E5%B9%B46%E6%9C%88)
    * [递归在多级数据结构中的简单应用](https://github.com/jeremylai7/blog/blob/origin/2024%E5%B9%B46%E6%9C%88/%E9%80%92%E5%BD%92%E5%9C%A8%E5%A4%9A%E7%BA%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%AD%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8.md)
    * [EasyExcel 无法读取图片？用poi写了一个工具类](https://github.com/jeremylai7/blog/blob/origin/2024%E5%B9%B46%E6%9C%88/EasyExcel%20%E6%97%A0%E6%B3%95%E8%AF%BB%E5%8F%96%E5%9B%BE%E7%89%87%EF%BC%9F%E7%94%A8poi%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%AA%E5%B7%A5%E5%85%B7%E7%B1%BB.md)
