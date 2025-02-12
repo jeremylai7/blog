@@ -1,6 +1,17 @@
 # 博客记录
 
+* [2025年](https://github.com/jeremylai7/blog/tree/origin/2025%E5%B9%B4)
+   * [1月](https://github.com/jeremylai7/blog/tree/origin/2025%E5%B9%B4/1%E6%9C%88)
+      * [不到万不得已，千万不要去外包](https://github.com/jeremylai7/blog/blob/origin/2025%E5%B9%B4/1%E6%9C%88/%E4%B8%8D%E5%88%B0%E4%B8%87%E4%B8%8D%E5%BE%97%E5%B7%B2%EF%BC%8C%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%8E%BB%E5%A4%96%E5%8C%85.md)
 * [2024年](https://github.com/jeremylai7/blog/tree/origin/2024%E5%B9%B4)
+  * [12月](https://github.com/jeremylai7/blog/tree/origin/2024%E5%B9%B4/12%E6%9C%88)
+     * [Java日志记录几种实现方案](https://github.com/jeremylai7/blog/blob/origin/2024%E5%B9%B4/12%E6%9C%88/Java%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95%E5%87%A0%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88.md)
+  * [11月](https://github.com/jeremylai7/blog/tree/origin/2024%E5%B9%B4/11%E6%9C%88)
+     * [教你对接电商拍图识款接口](https://github.com/jeremylai7/blog/blob/origin/2024%E5%B9%B4/11%E6%9C%88/%E6%95%99%E4%BD%A0%E5%AF%B9%E6%8E%A5%E7%94%B5%E5%95%86%E6%8B%8D%E5%9B%BE%E8%AF%86%E6%AC%BE%E6%8E%A5%E5%8F%A3.md)
+      
+  * [8月](https://github.com/jeremylai7/blog/tree/origin/2024%E5%B9%B4/8%E6%9C%88)
+     * [程序员失业日记3：工作真不好找](https://github.com/jeremylai7/blog/blob/origin/2024%E5%B9%B4/8%E6%9C%88/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%B1%E4%B8%9A%E6%97%A5%E8%AE%B03%EF%BC%9A%E5%B7%A5%E4%BD%9C%E7%9C%9F%E4%B8%8D%E5%A5%BD%E6%89%BE.md)
+     * [程序员失业日记4：半个月拿下4个offer](https://github.com/jeremylai7/blog/blob/origin/2024%E5%B9%B4/8%E6%9C%88/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%B1%E4%B8%9A%E6%97%A5%E8%AE%B04%EF%BC%9A%E5%8D%8A%E4%B8%AA%E6%9C%88%E6%8B%BF%E4%B8%8B4%E4%B8%AAoffer.md)   
 
   * [7月](https://github.com/jeremylai7/blog/tree/origin/2024%E5%B9%B4/7%E6%9C%88)
      * [程序员失业日记1 : 工作五年，交接半天](https://github.com/jeremylai7/blog/blob/origin/2024%E5%B9%B4/7%E6%9C%88/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%B1%E4%B8%9A%E6%97%A5%E8%AE%B01%3A%E5%B7%A5%E4%BD%9C%E4%BA%94%E5%B9%B4%EF%BC%8C%E4%BA%A4%E6%8E%A5%E5%8D%8A%E5%A4%A9.md)
