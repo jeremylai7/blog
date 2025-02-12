@@ -1,3 +1,5 @@
+# idea(Mac版本)配置本地maven报pom.part.lock (No such file or directory)
+
 ## 详情报错信息:
 ```
 Could not transfer artifact junit:junit:pom:4.13.1 from/to central (https://repo.maven.apache.org/maven2): /Repository/junit/junit/4.13.1/junit-4.13.1.pom.part.lock (No such file or directory)
