@@ -18,6 +18,8 @@
 
 进入[Seata官网](https://github.com/seata/seata/releases)下载，下载版本是`1.5.2`,找到`seata-server-1.5.1.tar.gz`下载。解压文件后进入`seata`文件。
 
+> 其实要下载 `seata-server-1.5.2.tar.gz`，`1.5.2`才有 `script` 文件夹。 
+
 # 2.建表
 
 新建数据库`seata`，然后在`seata`文件夹里面的`script`文件，找到`server` —> `db` —> `mysql.sql`，在数据库中执行`sql`语句:
