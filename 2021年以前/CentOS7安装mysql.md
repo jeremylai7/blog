@@ -10,6 +10,15 @@
 [root@localhost ~]# rm -rf /var/lib/mysql
 [root@localhost ~]# rm /etc/my.cnf
 ```
+
+如果还有残留，
+## 卸载所有 mysql-community 相关包
+
+```
+yum remove -y mysql-community-* mysql80-community-release
+```
+
+
 ## 下载和安装mysql的repo源
 
 ~~wget https://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm~~
